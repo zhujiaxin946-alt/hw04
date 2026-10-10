@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="走進台中帝國糖廠，認識糖廠歷史、星泉湖，透過清單、表格、照片和影片閱讀城市故事。">
+    <meta name="author" content="HTML 課程示範作者">
+    <title>台中帝國糖廠報導｜城市裡的百年風景</title>
+     </head>
+
+
+<body>
+    <header id="top">
+        <h1>台中帝國糖廠：舊城區裡的歷史建築</h1>
+        <p>在星泉湖散步，一起閱讀台中的城市記憶。</p>
+        <p>作者：朱家芯｜報導整理日期：<time datetime="2026-10-07">2026 年 10 月 8日</time></p>
+        <p><small>本文為資料整理型教學報導，非現場採訪紀錄。</small></p>
+    </header>
+
+
+
+
+    <nav aria-label="報導目錄">
+        <h2>報導目錄</h2>
+        <ul>
+            <li><a href="#intro">糖廠簡介</a></li>
+            <li><a href="#highlights">景點特色與散步順序</a></li>
+            <li><a href="#table">景點比較表</a></li>
+            <li><a href="#photo">星泉湖照片</a></li>
+            <li><a href="#video">影音報導</a></li>
+            <li><a href="#sources">資料來源</a></li>
+        </ul>
+         </nav>
+
+
+    <hr>
+
+
+    <main>
+        <article aria-label="台中帝國糖廠專題報導">
+            <section id="intro">
+                <h2>一、糖廠簡介</h2>
+                <p>
+                    歷史建築帝國製糖廠臺中營業所興建於<strong>1935年</strong> ，前身為日本帝國製糖株式會社之臺中工場營業
+                    空間，在臺中，帝糖見證著產業之興衰轉變，於2016年登錄為歷史建築。2019年重新開放，由
+                    好位子團隊負責策劃與營運，持續於帝糖策劃與推動產業文化展演、特色主題餐廳、ProLab職
+                    職人坊，傳承在地精神，也為帝糖注入新的元素與活力。
+                </p>
+                <p>
+                    園內最具代表性的景點是湖畔旁的<strong>帝國製糖廠臺中營業所</strong>。
+                    這座建築曾見證台中糖業與產業興衰，後來被登錄為歷史建築，也是台中舊城區活化的代表地標之一。
+                </p>
+                <p>
+                    從糖廠營業所的日式建築到星泉湖畔的生態景觀，台中帝國糖廠像一份可以慢慢閱讀的城市筆記。
+                    本篇以景點整理與建議散步順序，介紹這座結合歷史與生態的園區。
+                </p>
+                <p>館舍地址：台中市東區樂業路與進德路交叉口。<br>閱讀重點：歷史建築、湖畔景觀與產業文化。</p>
+                 </section>
+
+
+            <section id="highlights">
+                <h2>二、景點特色與散步順序</h2>
+                <h3>值得留意的三個特色</h3>
+                <ul>
+                    <li><strong>歷史建築：</strong>帝國製糖廠營業所連結了台中糖業發展與產業興衰的歷史。</li>
+                    <li><strong>湖畔風景：</strong>星泉湖與周邊綠意形成園區具有辨識度的景觀。</li>
+                    <li><strong>生態綠地：</strong>湖濱生態公園的環湖步道與綠地提供接近自然的空間。</li>
+                </ul>
+
+
+                <h3>建議散步順序</h3>
+                <p>以下是本報導規劃的散步建議，並非官方指定路線。</p>
+                <ol>
+                    <li>進入園區後，先閱讀現場導覽資訊，確認各景點位置。</li>
+                    <li>走到星泉湖畔，觀察帝國製糖廠建築外觀與湖面景致。</li>
+                    <li>進入帝國製糖廠臺中營業所內，參觀展覽並認識台中糖業與產業歷史。</li>
+                    <li>沿環湖生態步道散步，最後在休憩空間或文創餐飲區整理今日的觀察。</li>
+                </ol>
+            </section>
+           
+            <section id="table">
+                <h2>三、景點比較表</h2>
+                <table border="1">
+                    <caption>台中帝國糖廠三處景點的特色與觀察重點</caption>
+                    <thead>
+                        <tr>
+                            <th scope="col">景點名稱</th>
+                            <th scope="col">主要特色</th>
+                            <th scope="col">建議觀察重點</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">帝國製糖廠臺中營業所</th>
+                            <td>建於 1935 年的歷史建築</td>
+                            <td>日式產業建築外觀、歷史展覽與文創空間</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">星泉湖</th>
+                            <td>園區核心的生態湖泊</td>
+                            <td>湖面倒影、湖畔景觀與水生植物生態</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">環湖步道與綠地</th>
+                            <td>結合自然與休閒的綠色廊道</td>
+                            <td>步道沿途景致、生態觀察與休憩空間</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+
+            <section id="photo">
+                <h2>四、星泉湖照片</h2>
+                <figure>
+                    <img
+                        src="星泉湖美圖.jpg"
+                        alt="台中公園日月湖上的湖心亭"
+                        width="480">
+                    <figcaption>
+                        星泉湖是帝國糖廠的重要地標。
+                        圖片來源：<a href="https://www.taichung.gov.tw/8868/8872/9962/1522251">台中市政府</a>。
+                    </figcaption>
+                </figure>
+            </section>
+
+
+          <section id="video">
+  <h2>五、影音報導</h2>
+  
+  <p>透過下方影片認識台中帝國糖廠與星泉湖，再比較影片畫面與本文介紹的景點。</p>
+  
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/4aRgf-XRPic?si=Dq2ums5cqHckL-gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <p>
+    若播放器無法播放，請 
+    <a href="https://www.youtube.com/watch?v=4aRgf-XRPic" target="_blank" rel="noopener noreferrer">
+      在 YouTube 觀看星泉湖新聞介紹影片（另開分頁）
+    </a>。
+  </p>
+  
+  <p><small>影片為外部作者發布的歷史介紹，現場狀況請以最新官方資訊為準。</small></p>
+</section>
+
+            <section id="sources">
+                <h2>六、資料來源</h2>
+                <p>本報導依下列資料整理，散步順序與觀察建議由示範作者規劃。</p>
+                <ul>
+                    <li><a href="https://travel.taichung.gov.tw/zh-tw/attractions/intro/1423" target="_blank" rel="noopener noreferrer">台中觀光旅遊網:台中帝國糖廠</a></li>
+                    <li><a href="https://www.taichung.gov.tw/8868/8872/9962/1522251" target="_blank" rel="noopener noreferrer">臺中市政府全球資訊網:星泉湖</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=_Z7mBgDbxa0" target="_blank" rel="noopener noreferrer">YouTube：台中帝國糖廠亭介紹影片</a></li>
+                </ul>
+                <p><small>資料整理日期：2026 年 10 月 8 日。</small></p>
+            </section>
+        </article>
+    </main>
+
+
+    <hr>
+    <footer>
+        <p>第四次 HTML 作業範例｜台中帝國糖廠報導</p>
+        <p><a href="#top">回到頁首</a></p>
+    </footer>
+</body>
+
+
+<html>
+
